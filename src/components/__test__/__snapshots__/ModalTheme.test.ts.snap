@@ -1,0 +1,381 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`对话框组件测试 > 显示对话框，快照测试 1`] = `
+<body>
+  <div
+    data-v-app=""
+  >
+    
+    
+    
+    <div
+      class="css-dev-only-do-not-override-kqecok ant-app"
+    >
+      
+      <!--teleport start-->
+      <!--teleport end-->
+      
+      <!--teleport start-->
+      <!--teleport end-->
+      <!--teleport start-->
+      <!--teleport end-->
+      
+      <div>
+        
+        <router-view-stub
+          name="default"
+        />
+        
+      </div>
+      
+    </div>
+    
+    
+    
+  </div>
+  
+  
+  
+  
+  
+  
+  <div>
+    <div
+      class="ant-modal-root css-dev-only-do-not-override-kqecok"
+    >
+      <transition-stub
+        appear="true"
+        css="true"
+        enteractiveclass="ant-fade-enter ant-fade-enter-prepare"
+        enterfromclass="ant-fade-enter ant-fade-enter-prepare ant-fade-enter-start"
+        entertoclass="ant-fade-enter ant-fade-enter-active"
+        leaveactiveclass="ant-fade-leave ant-fade-leave-active"
+        leavefromclass=" ant-fade-leave"
+        leavetoclass="ant-fade-leave ant-fade-leave-active"
+        name="ant-fade"
+        persisted="false"
+      >
+        <div
+          class="ant-modal-mask"
+        />
+      </transition-stub>
+      <div
+        class="ant-modal-wrap"
+        role="dialog"
+      >
+        <transition-stub
+          appear="true"
+          css="true"
+          enteractiveclass="ant-zoom-enter ant-zoom-enter-prepare"
+          enterfromclass="ant-zoom-enter ant-zoom-enter-prepare ant-zoom-enter-start"
+          entertoclass="ant-zoom-enter ant-zoom-enter-active"
+          leaveactiveclass="ant-zoom-leave ant-zoom-leave-active"
+          leavefromclass=" ant-zoom-leave"
+          leavetoclass="ant-zoom-leave ant-zoom-leave-active"
+          name="ant-zoom"
+          persisted="false"
+        >
+          <div
+            class="ant-modal css-dev-only-do-not-override-kqecok ant-modal-confirm ant-modal-confirm-confirm"
+            role="document"
+            style="width: 416px;"
+          >
+            <div
+              aria-hidden="true"
+              style="width: 0px; height: 0px; overflow: hidden; outline-color: none; outline-style: none; outline-width: initial;"
+              tabindex="0"
+            />
+            <div
+              class="ant-modal-content"
+            >
+              <!---->
+              <!---->
+              <div
+                class="ant-modal-body"
+              >
+                
+                <div
+                  class="ant-modal-confirm-body-wrapper"
+                >
+                  <div
+                    class="ant-modal-confirm-body"
+                  >
+                    <span
+                      aria-label="exclamation-circle"
+                      class="anticon anticon-exclamation-circle"
+                      role="img"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        data-icon="exclamation-circle"
+                        fill="currentColor"
+                        focusable="false"
+                        height="1em"
+                        viewBox="64 64 896 896"
+                        width="1em"
+                      >
+                        <path
+                          d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm-32 232c0-4.4 3.6-8 8-8h48c4.4 0 8 3.6 8 8v272c0 4.4-3.6 8-8 8h-48c-4.4 0-8-3.6-8-8V296zm32 440a48.01 48.01 0 010-96 48.01 48.01 0 010 96z"
+                        />
+                      </svg>
+                      <!---->
+                    </span>
+                    <span
+                      class="ant-modal-confirm-title"
+                    >
+                      提示
+                    </span>
+                    <div
+                      class="ant-modal-confirm-content"
+                    >
+                      你确定要操作么？
+                    </div>
+                  </div>
+                  <div
+                    class="ant-modal-confirm-btns"
+                  >
+                    <button
+                      class="css-dev-only-do-not-override-kqecok ant-btn ant-btn-default"
+                      type="button"
+                    >
+                      <transition-stub
+                        appear="false"
+                        css="true"
+                        name="ant-btn-loading-icon-motion"
+                        persisted="false"
+                      >
+                        <!---->
+                      </transition-stub>
+                      
+                      <span>
+                        取 消
+                      </span>
+                      
+                    </button>
+                    <button
+                      class="css-dev-only-do-not-override-kqecok ant-btn ant-btn-primary"
+                      type="button"
+                    >
+                      <transition-stub
+                        appear="false"
+                        css="true"
+                        name="ant-btn-loading-icon-motion"
+                        persisted="false"
+                      >
+                        <!---->
+                      </transition-stub>
+                      
+                      <span>
+                        确 定
+                      </span>
+                      
+                    </button>
+                  </div>
+                </div>
+                
+              </div>
+              <!---->
+            </div>
+            <div
+              aria-hidden="true"
+              style="width: 0px; height: 0px; overflow: hidden; outline-color: none; outline-style: none; outline-width: initial;"
+              tabindex="0"
+            />
+          </div>
+        </transition-stub>
+      </div>
+    </div>
+    
+  </div>
+</body>
+`;
+
+exports[`显示对话框，快照测试 1`] = `
+<body>
+  <div
+    data-v-app=""
+  >
+    
+    
+    
+    <div
+      class="css-dev-only-do-not-override-kqecok ant-app"
+    >
+      
+      <!--teleport start-->
+      <!--teleport end-->
+      
+      <!--teleport start-->
+      <!--teleport end-->
+      <!--teleport start-->
+      <!--teleport end-->
+      
+      <div>
+        
+        <router-view-stub
+          name="default"
+        />
+        
+      </div>
+      
+    </div>
+    
+    
+    
+  </div>
+  
+  
+  
+  
+  
+  
+  <div>
+    <div
+      class="ant-modal-root css-dev-only-do-not-override-kqecok"
+    >
+      <transition-stub
+        appear="true"
+        css="true"
+        enteractiveclass="ant-fade-enter ant-fade-enter-prepare"
+        enterfromclass="ant-fade-enter ant-fade-enter-prepare ant-fade-enter-start"
+        entertoclass="ant-fade-enter ant-fade-enter-active"
+        leaveactiveclass="ant-fade-leave ant-fade-leave-active"
+        leavefromclass=" ant-fade-leave"
+        leavetoclass="ant-fade-leave ant-fade-leave-active"
+        name="ant-fade"
+        persisted="false"
+      >
+        <div
+          class="ant-modal-mask"
+        />
+      </transition-stub>
+      <div
+        class="ant-modal-wrap"
+        role="dialog"
+      >
+        <transition-stub
+          appear="true"
+          css="true"
+          enteractiveclass="ant-zoom-enter ant-zoom-enter-prepare"
+          enterfromclass="ant-zoom-enter ant-zoom-enter-prepare ant-zoom-enter-start"
+          entertoclass="ant-zoom-enter ant-zoom-enter-active"
+          leaveactiveclass="ant-zoom-leave ant-zoom-leave-active"
+          leavefromclass=" ant-zoom-leave"
+          leavetoclass="ant-zoom-leave ant-zoom-leave-active"
+          name="ant-zoom"
+          persisted="false"
+        >
+          <div
+            class="ant-modal css-dev-only-do-not-override-kqecok ant-modal-confirm ant-modal-confirm-confirm"
+            role="document"
+            style="width: 416px;"
+          >
+            <div
+              aria-hidden="true"
+              style="width: 0px; height: 0px; overflow: hidden; outline-color: none; outline-style: none; outline-width: initial;"
+              tabindex="0"
+            />
+            <div
+              class="ant-modal-content"
+            >
+              <!---->
+              <!---->
+              <div
+                class="ant-modal-body"
+              >
+                
+                <div
+                  class="ant-modal-confirm-body-wrapper"
+                >
+                  <div
+                    class="ant-modal-confirm-body"
+                  >
+                    <span
+                      aria-label="exclamation-circle"
+                      class="anticon anticon-exclamation-circle"
+                      role="img"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        data-icon="exclamation-circle"
+                        fill="currentColor"
+                        focusable="false"
+                        height="1em"
+                        viewBox="64 64 896 896"
+                        width="1em"
+                      >
+                        <path
+                          d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm-32 232c0-4.4 3.6-8 8-8h48c4.4 0 8 3.6 8 8v272c0 4.4-3.6 8-8 8h-48c-4.4 0-8-3.6-8-8V296zm32 440a48.01 48.01 0 010-96 48.01 48.01 0 010 96z"
+                        />
+                      </svg>
+                      <!---->
+                    </span>
+                    <span
+                      class="ant-modal-confirm-title"
+                    >
+                      提示
+                    </span>
+                    <div
+                      class="ant-modal-confirm-content"
+                    >
+                      你确定要操作么？
+                    </div>
+                  </div>
+                  <div
+                    class="ant-modal-confirm-btns"
+                  >
+                    <button
+                      class="css-dev-only-do-not-override-kqecok ant-btn ant-btn-default"
+                      type="button"
+                    >
+                      <transition-stub
+                        appear="false"
+                        css="true"
+                        name="ant-btn-loading-icon-motion"
+                        persisted="false"
+                      >
+                        <!---->
+                      </transition-stub>
+                      
+                      <span>
+                        取 消
+                      </span>
+                      
+                    </button>
+                    <button
+                      class="css-dev-only-do-not-override-kqecok ant-btn ant-btn-primary"
+                      type="button"
+                    >
+                      <transition-stub
+                        appear="false"
+                        css="true"
+                        name="ant-btn-loading-icon-motion"
+                        persisted="false"
+                      >
+                        <!---->
+                      </transition-stub>
+                      
+                      <span>
+                        确 定
+                      </span>
+                      
+                    </button>
+                  </div>
+                </div>
+                
+              </div>
+              <!---->
+            </div>
+            <div
+              aria-hidden="true"
+              style="width: 0px; height: 0px; overflow: hidden; outline-color: none; outline-style: none; outline-width: initial;"
+              tabindex="0"
+            />
+          </div>
+        </transition-stub>
+      </div>
+    </div>
+    
+  </div>
+</body>
+`;
